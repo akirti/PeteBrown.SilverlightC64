@@ -1,0 +1,23 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" 
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Deployment.Parts />
+  <Deployment.ApplicationIdentity>
+    <ApplicationIdentity ShortName="SilverlightC64" 
+                         Title="Pete's Silverlight C64 Emulator">
+      <ApplicationIdentity.Blurb>
+        Commodore 64 Emulator in Silverlight 3
+      </ApplicationIdentity.Blurb>
+      
+      <ApplicationIdentity.Icons>
+        <Icon Size="16x16">AppIcon016.png</Icon>
+        <Icon Size="32x32">AppIcon032.png</Icon>
+        <Icon Size="64x64">AppIcon064.png</Icon>
+        <Icon Size="128x128">AppIcon128.png</Icon>
+      </ApplicationIdentity.Icons>
+      
+    </ApplicationIdentity>
+  </Deployment.ApplicationIdentity>
+</Deployment>
+
+
+

@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="PeteBrown.SilverlightC64.Page"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PeteBrown.SilverlightC64">
+    <Grid x:Name="LayoutRoot">
+            <local:UserInterface x:Name="UserInterface" />
+        
+        
+    </Grid>
+</UserControl>
